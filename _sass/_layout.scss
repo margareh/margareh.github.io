@@ -207,6 +207,7 @@
   @include relative-font-size(1.5);
 }
 
+
 /**
  * Classes for home page
  */
@@ -224,15 +225,16 @@
   padding-left: $spacing-unit / 2;
 }
 
-.image {
+.home-col-1 {
+  width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+  width:         calc(60% - (#{$spacing-unit} / 2));
+}
+
+.home-col-2 {
   width: -webkit-calc(40% - (#{$spacing-unit} / 2));
   width:         calc(40% - (#{$spacing-unit} / 2));
 }
 
-.info {
-  width: -webkit-calc(60% - (#{$spacing-unit} / 2));
-  width:         calc(60% - (#{$spacing-unit} / 2));
-}
 
 /**
  * Posts
