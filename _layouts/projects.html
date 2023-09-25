@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  <div class="wrapper">
+    <div class="home-col-wrapper">
+        {% for proj in page.projects %}
+        
+            <h1 class="proj-header">{{ proj.name }}</h1>
+            <div class="home-col home-col-1">
+                {{ include.description }}
+            </div>
+            <div class="home-col home-col-2">
+                <img src="{{ include.image_link }}" alt="{{ include.alt_text }}" >
+            </div>
+
+        {% endfor %}
+    </div>
+  </div>
+
+</div>
