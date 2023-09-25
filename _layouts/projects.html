@@ -12,13 +12,15 @@ layout: default
     <div class="home-col-wrapper">
         {% for proj in page.projects %}
         
+          <div class="proj-section">
             <h1 class="proj-header">{{ proj.name }}</h1>
             <div class="home-col home-col-1">
-                {{ include.description }}
+              {{ proj.description }}
             </div>
             <div class="home-col home-col-2">
-                <img src="{{ include.image_link }}" alt="{{ include.alt_text }}" >
+                <img src="{{ proj.image_link }}" alt="{{ proj.alt_text }}" >
             </div>
+          </div>
 
         {% endfor %}
     </div>

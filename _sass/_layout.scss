@@ -234,14 +234,19 @@
   padding-left: $spacing-unit / 2;
 }
 
+.proj-section {
+  float: left;
+}
+
 .home-col-1 {
-  width: -webkit-calc(60% - (#{$spacing-unit} / 2));
-  width:         calc(60% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(65% - (0.6 * #{$spacing-unit} ));
+  width:         calc(65% - (0.6 * #{$spacing-unit} ));
 }
 
 .home-col-2 {
-  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
-  width:         calc(40% - (#{$spacing-unit} / 2));
+  float: right;
+  width: -webkit-calc(35% - (0.6 * #{$spacing-unit} ));
+  width:         calc(35% - (0.6 * #{$spacing-unit} ));
 }
 
 h1.proj-header {

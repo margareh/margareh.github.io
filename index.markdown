@@ -10,7 +10,9 @@ image_link: /assets/headshot.jpg
 image_desc: headshot
 ---
 
-[add bio and picture here]
+I'm a third-year robotics PhD student at Carnegie Mellon University. My research is generally related to autonomous navigation for planetary rovers, especially perception and mapping as they pertain to navigation. I am interested in topics ranging from neural rendering techniques to active perception, to the extent that they can be applied to planetary exploration. My ultimate goal is to develop terrain models that contain both geometric and scientific information, model directional uncertainty, and incorporate correlations both spatially and between the values being modeled. I believe that creating models such as these - along with planners that are tailor-made to use these maps and the richer information contained within them - will enable improved navigation and science target selection.
+
+I took a somewhat unconventional path to robotics. After studying mathematics in undergrad, I initially worked as an economic consultant prior to returning to school. This experience gave me the opportunity to discover what I liked (and didn't like) in the workplace and drove me to think hard about my professional and personal goals.
 
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
