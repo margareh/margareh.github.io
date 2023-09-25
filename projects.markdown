@@ -1,15 +1,20 @@
 ---
-layout: home
+layout: page
 title: Projects
 id: projects
+order: 1
 permalink: /projects/
 ---
 
-## Lunar NeRFs
+### Lunar NeRFs
 
-## Range-based GP Maps
 
-## Spectral Mixture Ergodic Search
 
-## MoonRanger
+### Range-based GP Maps
+
+### Spectral Mixture Ergodic Search
+
+### MoonRanger
+
+
 

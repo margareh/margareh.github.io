@@ -5,6 +5,9 @@
 layout: home
 title: About
 id: home
+order: 0
+image_link: /assets/headshot.jpg
+image_desc: headshot
 ---
 
 [add bio and picture here]
