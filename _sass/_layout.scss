@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  border-top: 5px solid $cmu-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
@@ -39,6 +39,16 @@
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
+  .page-link-active {
+    color: $cmu-color-dark;
+    line-height: $base_line_height;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -214,7 +224,6 @@
 
 .home-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -233,6 +242,15 @@
 .home-col-2 {
   width: -webkit-calc(40% - (#{$spacing-unit} / 2));
   width:         calc(40% - (#{$spacing-unit} / 2));
+}
+
+h1.proj-header {
+  color: $text-color;
+  @include relative-font-size(1.5);
+}
+
+h1.page-heading {
+  color: $cmu-color;
 }
 
 
