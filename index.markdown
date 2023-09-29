@@ -6,7 +6,8 @@ layout: home
 title: About
 id: home
 order: 0
-image_link: /assets/headshot.jpg
+# image_link: /assets/headshot.jpg
+image_link: /assets/maggie_photo_crop.jpeg
 image_desc: headshot
 ---
 
