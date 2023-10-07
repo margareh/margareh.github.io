@@ -29,8 +29,8 @@ linkedin_username: margaret-hansen
 
 # Build settings
 theme: minima
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
 
 header_pages:
  - index.markdown

@@ -10,6 +10,38 @@ layout: default
 
   <div class="wrapper">
     <div class="home-col-wrapper">
+      {%- for post in site.posts -%}
+      <div class="proj-section">
+        <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+        <div class="home-col proj-col-1">
+          {{ post.description }}
+        </div>
+        <div class="home-col proj-col-2">
+          <img style="float: right;" src="{{ post.image_link }}" alt="{{ post.alt_text }}">
+        </div>
+      </div>
+
+      {%- endfor -%}
+    </div>
+  </div>
+
+  <!-- <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li> -->
+      <!-- {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} -->
+      <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
+      <!-- <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {{ post.description }}
+    </li>
+    {%- endfor -%}
+  </ul> -->
+
+  <!-- <div class="wrapper">
+    <div class="home-col-wrapper">
         {% for proj in page.projects %}
         
           <div class="proj-section">
@@ -24,6 +56,6 @@ layout: default
 
         {% endfor %}
     </div>
-  </div>
+  </div> -->
 
 </div>
