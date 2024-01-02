@@ -217,6 +217,19 @@ pre {
     vertical-align: text-top;
 }
 
+.gs-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: #{$grey-color};
+  transform: scale(0.95);
+  // margin-top: -2px;
+  margin-left: -1px;
+  padding-right: 10px;
+  vertical-align: text-top;
+}
+
+
 .social-media-list {
   li + li {
     padding-top: 5px;
