@@ -37,6 +37,7 @@ header_pages:
  - index.markdown
  - projects.markdown
  - papers.markdown
+ - datasets.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
