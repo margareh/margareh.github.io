@@ -14,5 +14,8 @@ permanently shadowed regions). This dataset was inspired by the [POLAR Stereo Da
 
 **Link:** [POLAR Traverse Dataset](https://ti.arc.nasa.gov/dataset/PolarTrav/index.html)
 
-**Citation:**
+**Suggested Citation:**
 Margaret Hansen, Uland Wong, Terrence Fong. Polar Optical Lunar Analog Reconstruction (POLAR) Traverse Dataset. NASA Ames Research Center, Nov 2023.
+
+**Associated paper:**
+M. Hansen, U. Wong, and T. Fong, "The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions," arXiv preprint, 2024, accessed at [https://arxiv.org/abs/2403.12194](https://arxiv.org/abs/2403.12194).
