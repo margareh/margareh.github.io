@@ -21,7 +21,7 @@
 title: Margaret Hansen
 email: margareh@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for Margaret Hansen, Robotics PhD student at Carnegie Mellon.
+  Personal website for Margaret Hansen, Robotics PhD candidate at Carnegie Mellon University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  margareh
