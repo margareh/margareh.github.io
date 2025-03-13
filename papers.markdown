@@ -6,7 +6,7 @@ order: 2
 permalink: /papers/
 ---
 
-M. Hansen, R. Elphic, T. Fong, and D. Wettergreen, "Improving Predictive Modeling for Robotic Resource Mapping with Non-Stationary Process Effects and Sensor Noise Estimation," 2024 International Symposium on Artificial Intelligence, Robotics and Automation in Space, Brisbane, QLD, Australia, Nov 2024.
+M. Hansen, R. Elphic, T. Fong, and D. Wettergreen, "Improving Predictive Modeling for Robotic Resource Mapping with Non-Stationary Process Effects and Sensor Noise Estimation," 2024 International Symposium on Artificial Intelligence, Robotics and Automation in Space, Brisbane, QLD, Australia, Nov 2024, accessed at [https://www.ri.cmu.edu/app/uploads/2025/03/i-SAIRAS2024_Hansen_ProcessModels.pdf](https://www.ri.cmu.edu/app/uploads/2025/03/i-SAIRAS2024_Hansen_ProcessModels.pdf).
 
 M. Hansen, U. Wong, and T. Fong, "The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions," 2024 International Symposium on Artificial Intelligence, Robotics and Automation in Space, Brisbane, QLD, Australia, Nov 2024, accessed at [https://arxiv.org/abs/2403.12194](https://arxiv.org/abs/2403.12194).
 
