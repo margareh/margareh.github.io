@@ -7,7 +7,8 @@ title: About
 id: home
 order: 0
 # image_link: /assets/headshot.jpg
-image_link: /assets/maggie_photo.jpeg
+# image_link: /assets/maggie_photo.jpeg
+image_link: /assets/margareh-300x450.jpg
 image_desc: headshot
 ---
 
