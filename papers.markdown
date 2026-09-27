@@ -8,7 +8,7 @@ permalink: /papers/
 
 M. Hansen and D. Wettergreen, "Physical Process-Informed Mapping for Interpretable Robotic Exploration of Natural Phenomena," 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Pittsburgh, PA, 2026 [forthcoming].
 
-M. Hansen and D. Wettergreen, "Learning Physically Informed Maps for Off-world Autonomous Scientific Discovery," Space Robotics Workshop at 2026 International Conference on Robotics and Automation (ICRA), Vienna, Austria, 2026 [forthcoming].
+M. Hansen and D. Wettergreen, "Learning Physically Informed Maps for Off-world Autonomous Scientific Discovery," Space Robotics Workshop at 2026 International Conference on Robotics and Automation (ICRA), Vienna, Austria, 2026, accessed at [https://openreview.net/forum?id=wTSsjOzhcA](https://openreview.net/forum?id=wTSsjOzhcA).
 
 M. Hansen, A. Rao, A. Breitfeld, and D. Wettergreen, "Resource Mapping with a Mobile Exploration Robot using Spectral Mixture Ergodic Search," 2026 International Conference on Robotics and Automation (ICRA), Vienna, Austria, 2026 [forthcoming].
 
